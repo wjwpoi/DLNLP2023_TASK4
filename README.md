@@ -4,12 +4,12 @@ Homework for BUAA DLNLP2023
 necessary package:
 
 `
-torch re random
+torch re random jieba
 `
 
 If you want to train the model, you need to turn the variable `train=True`
 
-check point can be get from:
+checkpoint can be get from:
 
 `
 https://bhpan.buaa.edu.cn:443/link/21183D83EBD20B4C53A6867FD99AB185
